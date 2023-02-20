@@ -27,7 +27,7 @@
         {
       "name": "model_ds920p.dtb",
       "url": "https://github.com/hq260365/redpill-load/raw/develop/redpill-dtb/releases/patch.tar.gz",
-      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "sha256": "6D81A0E3784C1B9817A02188FA49890EC40E71B91718C2E7D9481D93B331EE98",
       "packed": false
     }
   ],
